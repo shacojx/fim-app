@@ -1,0 +1,20 @@
+=============request==============
+GET : https://ebank.tpb.vn/retail/vX/assets/icons/ic_search_location_48.svg
+Host: ebank.tpb.vn
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://ebank.tpb.vn/retail/vX/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: b3b2027ffaec49785c7748342e901206=3c48d9467fd92a69ace18551b3d92af0; NSC_fcbol_sfbubm_wY_mcwt_iuuq=ffffffff09da08d645525d5f4f58455e445a4a423660
+
+
+=============Response==============
+b'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">\n    <defs>\n        <path id="a" d="M32.296 26.857c3.473 0 6.297 2.848 6.297 6.35 0 1.174-.339 2.26-.893 3.204l2.467 2.487a1.594 1.594 0 0 1-.01 2.254 1.567 1.567 0 0 1-2.216-.01l-2.467-2.486c-.936.558-2.013.9-3.178.9-3.472 0-6.296-2.848-6.296-6.35 0-3.501 2.824-6.349 6.296-6.349zM23.166 4c6.964 0 14.167 5.343 14.167 14.286 0 1.673-.51 3.522-1.31 5.414a9.322 9.322 0 0 0-3.412-.652c-5.208 0-9.444 4.271-9.444 9.523 0 2.375.872 4.543 2.303 6.215a58.425 58.425 0 0 1-1.186 1.254 1.568 1.568 0 0 1-2.235 0C21.517 39.497 9 26.68 9 18.286 9 9.343 16.203 4 23.167 4zm9.13 26.032c-1.736 0-3.148 1.424-3.148 3.174 0 1.751 1.412 3.175 3.148 3.175 1.736 0 3.148-1.424 3.148-3.175 0-1.75-1.412-3.174-3.148-3.174zm-9.13-16.508c-2.608 0-4.722 2.132-4.722 4.762 0 2.63 2.114 4.762 4.723 4.762 2.608 0 4.722-2.132 4.722-4.762 0-2.63-2.114-4.762-4.722-4.762z"/>\n    </defs>\n    <g fill="none" fill-rule="evenodd">\n        <mask id="b" fill="#fff">\n            <use xlink:href="#a"/>\n        </mask>\n        <use fill="#1B2031" fill-rule="nonzero" xlink:href="#a"/>\n        <g fill="#FF9800" mask="url(#b)">\n            <path d="M0 0h48v48H0z"/>\n        </g>\n    </g>\n</svg>\n'

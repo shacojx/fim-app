@@ -1,0 +1,16 @@
+=============request==============
+GET : https://content-autofill.googleapis.com/v1/pages/ChRDaHJvbWUvMTMwLjAuNjcyMy45MhIgCeGqNDGApjuAEgUNkWGVThIFDTWGVBwh0YYhQxyyINk=?alt=proto
+x-goog-encode-response-if-executable: base64
+x-goog-api-key: AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+x-client-data: CLHuygE=
+sec-fetch-site: none
+sec-fetch-mode: no-cors
+sec-fetch-dest: empty
+user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+accept-encoding: gzip, deflate, br, zstd
+accept-language: en-US,en;q=0.9
+priority: u=4, i
+
+
+=============Response==============
+b'\x1f\x8b\x08\x00\x00\x00\x00\x00\x02\xffs\xce\xf0\xf4v*7\n\x8a\x8c\n\xf3wOw\x04\xb2\r\x0c3r\x02\x93\x81l[\x00\x1aP6I\x1c\x00\x00\x00'

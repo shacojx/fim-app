@@ -1,0 +1,17 @@
+=============request==============
+GET : https://ebank.tpb.vn/retail/vX/57-es2015.49263058189eb929b004.js
+Host: ebank.tpb.vn
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"
+sec-ch-ua-mobile: ?0
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://ebank.tpb.vn/retail/vX/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: b3b2027ffaec49785c7748342e901206=3c48d9467fd92a69ace18551b3d92af0; NSC_fcbol_sfbubm_wY_mcwt_iuuq=ffffffff09da08d645525d5f4f58455e445a4a423660; _fbp=fb.1.1730796813611.581751658490514484; XSRF-TOKEN=7ee1d9e8-9962-4ad7-9825-83525a092c77; 7ab9ae52001b4aa7508e45efaeb864f6=8aebc60ab8a15792abd882121fca4d1a; NSC_fcbol_hbufxbz_bqj_mcwt_iuuq=ffffffff09c2125745525d5f4f58455e445a4a423660
+

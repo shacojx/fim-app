@@ -1,0 +1,20 @@
+=============request==============
+GET : https://ebank.tpb.vn/retail/vX/assets/icons/ic_support.svg
+Host: ebank.tpb.vn
+Connection: keep-alive
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+sec-ch-ua: "Chromium";v="130", "Google Chrome";v="130", "Not?A_Brand";v="99"
+sec-ch-ua-mobile: ?0
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://ebank.tpb.vn/retail/vX/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: b3b2027ffaec49785c7748342e901206=3c48d9467fd92a69ace18551b3d92af0; NSC_fcbol_sfbubm_wY_mcwt_iuuq=ffffffff09da08d645525d5f4f58455e445a4a423660
+
+
+=============Response==============
+b'<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">\n    <defs>\n        <path id="a" d="M12 2C6.486 2 2 6.486 2 12v7.5C2 20.878 3.122 22 4.5 22h3.333c.461 0 .834-.373.834-.833V14.5a.833.833 0 0 0-.834-.833H3.667V12c0-4.595 3.738-8.333 8.333-8.333 4.595 0 8.333 3.738 8.333 8.333v1.667h-4.166a.833.833 0 0 0-.834.833v6.667c0 .46.373.833.834.833H19.5c1.378 0 2.5-1.122 2.5-2.5V12c0-5.514-4.486-10-10-10z"/>\n    </defs>\n    <g fill="none" fill-rule="evenodd">\n        <mask id="b" fill="#fff">\n            <use xlink:href="#a"/>\n        </mask>\n        <use fill="#687089" fill-rule="nonzero" xlink:href="#a"/>\n        <g fill="#FF9800" mask="url(#b)">\n            <path d="M0 0h24v24H0z"/>\n        </g>\n    </g>\n</svg>\n'
